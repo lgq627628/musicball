@@ -1,0 +1,75 @@
+{
+  "ver": "1.3.19",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "c487601c-4801-488c-9c93-d408fc47303d",
+  "files": [],
+  "subMetas": {
+    "469fb": {
+      "ver": "1.0.9",
+      "importer": "gltf-mesh",
+      "uuid": "c487601c-4801-488c-9c93-d408fc47303d@469fb",
+      "imported": true,
+      "files": [
+        ".json",
+        ".bin"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 0
+      },
+      "displayName": "",
+      "id": "469fb",
+      "name": "Square.mesh"
+    },
+    "6e0b0": {
+      "ver": "1.0.14",
+      "importer": "gltf-material",
+      "uuid": "c487601c-4801-488c-9c93-d408fc47303d@6e0b0",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 0
+      },
+      "displayName": "",
+      "id": "6e0b0",
+      "name": "BoxMaterial.material"
+    },
+    "eaa8c": {
+      "ver": "1.0.11",
+      "importer": "gltf-scene",
+      "uuid": "c487601c-4801-488c-9c93-d408fc47303d@eaa8c",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 0
+      },
+      "displayName": "",
+      "id": "eaa8c",
+      "name": "Platform.prefab"
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "redirect": "c487601c-4801-488c-9c93-d408fc47303d@eaa8c",
+    "assetFinder": {
+      "meshes": [
+        "c487601c-4801-488c-9c93-d408fc47303d@469fb"
+      ],
+      "skeletons": [],
+      "textures": [],
+      "materials": [
+        "c487601c-4801-488c-9c93-d408fc47303d@6e0b0"
+      ],
+      "scenes": [
+        "c487601c-4801-488c-9c93-d408fc47303d@eaa8c"
+      ]
+    }
+  }
+}

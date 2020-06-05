@@ -1,0 +1,213 @@
+{
+  "ver": "1.3.19",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "0fa5b106-59ae-45fc-bedf-cca684fe0d8d",
+  "files": [],
+  "subMetas": {
+    "56552": {
+      "ver": "1.0.9",
+      "importer": "gltf-mesh",
+      "uuid": "0fa5b106-59ae-45fc-bedf-cca684fe0d8d@56552",
+      "imported": true,
+      "files": [
+        ".json",
+        ".bin"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 3
+      },
+      "displayName": "",
+      "id": "56552",
+      "name": "4.mesh"
+    },
+    "70111": {
+      "ver": "1.0.11",
+      "importer": "gltf-scene",
+      "uuid": "0fa5b106-59ae-45fc-bedf-cca684fe0d8d@70111",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 0
+      },
+      "displayName": "",
+      "id": "70111",
+      "name": "Road.prefab"
+    },
+    "49b18": {
+      "ver": "1.0.9",
+      "importer": "gltf-mesh",
+      "uuid": "0fa5b106-59ae-45fc-bedf-cca684fe0d8d@49b18",
+      "imported": true,
+      "files": [
+        ".json",
+        ".bin"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 0
+      },
+      "displayName": "",
+      "id": "49b18",
+      "name": "1.mesh"
+    },
+    "f0ece": {
+      "ver": "1.0.9",
+      "importer": "gltf-mesh",
+      "uuid": "0fa5b106-59ae-45fc-bedf-cca684fe0d8d@f0ece",
+      "imported": true,
+      "files": [
+        ".json",
+        ".bin"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 1
+      },
+      "displayName": "",
+      "id": "f0ece",
+      "name": "2.mesh"
+    },
+    "1bd47": {
+      "ver": "1.0.9",
+      "importer": "gltf-mesh",
+      "uuid": "0fa5b106-59ae-45fc-bedf-cca684fe0d8d@1bd47",
+      "imported": true,
+      "files": [
+        ".json",
+        ".bin"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 2
+      },
+      "displayName": "",
+      "id": "1bd47",
+      "name": "3.mesh"
+    },
+    "f300e": {
+      "ver": "1.0.9",
+      "importer": "gltf-mesh",
+      "uuid": "0fa5b106-59ae-45fc-bedf-cca684fe0d8d@f300e",
+      "imported": true,
+      "files": [
+        ".json",
+        ".bin"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 4
+      },
+      "displayName": "",
+      "id": "f300e",
+      "name": "5.mesh"
+    },
+    "3d9f6": {
+      "ver": "1.0.9",
+      "importer": "gltf-mesh",
+      "uuid": "0fa5b106-59ae-45fc-bedf-cca684fe0d8d@3d9f6",
+      "imported": true,
+      "files": [
+        ".json",
+        ".bin"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 5
+      },
+      "displayName": "",
+      "id": "3d9f6",
+      "name": "6.mesh"
+    },
+    "0abb7": {
+      "ver": "1.0.2",
+      "importer": "gltf-embeded-image",
+      "uuid": "0fa5b106-59ae-45fc-bedf-cca684fe0d8d@0abb7",
+      "imported": true,
+      "files": [
+        ".png",
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 0
+      },
+      "displayName": "",
+      "id": "0abb7",
+      "name": "Asset_3_road.png.image"
+    },
+    "450b0": {
+      "ver": "1.0.19",
+      "importer": "texture",
+      "uuid": "0fa5b106-59ae-45fc-bedf-cca684fe0d8d@450b0",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "premultiplyAlpha": false,
+        "anisotropy": 1,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "0fa5b106-59ae-45fc-bedf-cca684fe0d8d@0abb7"
+      },
+      "displayName": "",
+      "id": "450b0",
+      "name": "Asset_3_road.texture"
+    },
+    "163e1": {
+      "ver": "1.0.14",
+      "importer": "gltf-material",
+      "uuid": "0fa5b106-59ae-45fc-bedf-cca684fe0d8d@163e1",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 0
+      },
+      "displayName": "",
+      "id": "163e1",
+      "name": "material-road.material"
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "Asset_3_road.png",
+        "uri": "0fa5b106-59ae-45fc-bedf-cca684fe0d8d@0abb7"
+      }
+    ],
+    "redirect": "0fa5b106-59ae-45fc-bedf-cca684fe0d8d@70111",
+    "assetFinder": {
+      "meshes": [
+        "0fa5b106-59ae-45fc-bedf-cca684fe0d8d@49b18",
+        "0fa5b106-59ae-45fc-bedf-cca684fe0d8d@f0ece",
+        "0fa5b106-59ae-45fc-bedf-cca684fe0d8d@1bd47",
+        "0fa5b106-59ae-45fc-bedf-cca684fe0d8d@56552",
+        "0fa5b106-59ae-45fc-bedf-cca684fe0d8d@f300e",
+        "0fa5b106-59ae-45fc-bedf-cca684fe0d8d@3d9f6"
+      ],
+      "skeletons": [],
+      "textures": [
+        "0fa5b106-59ae-45fc-bedf-cca684fe0d8d@450b0"
+      ],
+      "materials": [
+        "0fa5b106-59ae-45fc-bedf-cca684fe0d8d@163e1"
+      ],
+      "scenes": [
+        "0fa5b106-59ae-45fc-bedf-cca684fe0d8d@70111"
+      ]
+    }
+  }
+}

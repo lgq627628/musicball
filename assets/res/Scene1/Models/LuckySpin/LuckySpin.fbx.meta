@@ -1,0 +1,123 @@
+{
+  "ver": "1.3.19",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "e4509f77-4dc9-4f32-ba39-9aed54bea680",
+  "files": [],
+  "subMetas": {
+    "24764": {
+      "ver": "1.0.9",
+      "importer": "gltf-mesh",
+      "uuid": "e4509f77-4dc9-4f32-ba39-9aed54bea680@24764",
+      "imported": true,
+      "files": [
+        ".json",
+        ".bin"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 0
+      },
+      "displayName": "",
+      "id": "24764",
+      "name": "Ball.mesh"
+    },
+    "50361": {
+      "ver": "1.0.19",
+      "importer": "texture",
+      "uuid": "e4509f77-4dc9-4f32-ba39-9aed54bea680@50361",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "premultiplyAlpha": false,
+        "anisotropy": 1,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "e4509f77-4dc9-4f32-ba39-9aed54bea680@d04ad"
+      },
+      "displayName": "",
+      "id": "50361",
+      "name": "8.texture"
+    },
+    "d04ad": {
+      "ver": "1.0.2",
+      "importer": "gltf-embeded-image",
+      "uuid": "e4509f77-4dc9-4f32-ba39-9aed54bea680@d04ad",
+      "imported": true,
+      "files": [
+        ".png",
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 0
+      },
+      "displayName": "",
+      "id": "d04ad",
+      "name": "8.png.image"
+    },
+    "5ee66": {
+      "ver": "1.0.14",
+      "importer": "gltf-material",
+      "uuid": "e4509f77-4dc9-4f32-ba39-9aed54bea680@5ee66",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 0
+      },
+      "displayName": "",
+      "id": "5ee66",
+      "name": "8.material"
+    },
+    "4853f": {
+      "ver": "1.0.11",
+      "importer": "gltf-scene",
+      "uuid": "e4509f77-4dc9-4f32-ba39-9aed54bea680@4853f",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 0
+      },
+      "displayName": "",
+      "id": "4853f",
+      "name": "LuckySpin.prefab"
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "8.png",
+        "uri": "e4509f77-4dc9-4f32-ba39-9aed54bea680@d04ad"
+      }
+    ],
+    "redirect": "e4509f77-4dc9-4f32-ba39-9aed54bea680@4853f",
+    "assetFinder": {
+      "meshes": [
+        "e4509f77-4dc9-4f32-ba39-9aed54bea680@24764"
+      ],
+      "skeletons": [],
+      "textures": [
+        "e4509f77-4dc9-4f32-ba39-9aed54bea680@50361"
+      ],
+      "materials": [
+        "e4509f77-4dc9-4f32-ba39-9aed54bea680@5ee66"
+      ],
+      "scenes": [
+        "e4509f77-4dc9-4f32-ba39-9aed54bea680@4853f"
+      ]
+    }
+  }
+}
